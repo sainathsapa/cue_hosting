@@ -1,0 +1,51 @@
+.cust_btn {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: black 1px solid;
+}
+
+.circle {
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    right: -100%;
+    overflow: hidden;
+    -moz-transition: transform 1s;
+    -webkit-transition: transform 1s;
+    transition: transform 1s;
+}
+
+body {
+    overflow: hidden;
+}
+
+.nav-link:hover {
+    font-size: larger;
+}
+
+.nu {
+    width: 130px;
+    height: 100px;
+    font-size: 80px;
+}
+
+.line {
+    height: 200px;
+    border-left: 2px gray solid;
+}
+
+.f_text {
+    font-size: 50px;
+    color: grey;
+}
+
+.s_text {
+    font-size: 80px;
+    color: rgb(83, 82, 82);
+}
+
+.t_text {
+    font-size: 25px;
+    color: rgb(34, 34, 34);
+}
