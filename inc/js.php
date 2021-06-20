@@ -2,5 +2,4 @@
 
 <script src="assets/js/bootstrap.js"></script>
 
-<script src="assets/table/datatables.js"></script>
 <script src="assets/js/custom.js"></script>
